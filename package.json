@@ -12,6 +12,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Llyme/juery.git"
+    "url": "git+https://github.com/Llyme/juery.git"
   }
 }
